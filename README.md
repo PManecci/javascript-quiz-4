@@ -14,10 +14,26 @@
 
 - On the Home Page click the Play button to take the quiz
 
-- Answer each question - Correct answer buttons flash green and award 100 points - Incorrect answer buttons flash red and no points are awarded
+```md
+    ![homepage](assets/images/home-page.png)
+    ```
+
+- Answer each question - Correct answer buttons flash green and award 100 points - Incorrect answer buttons flash red and no points are awarded. 
+- Quiz progress is shown in the upper left and current score is in the upper right
+
+```md
+    ![quiz question](assets/images/questions.png)
+    ```
 
 - After all 5 questions are answered you will have the option to save your Final Score by entering your name, replay the quiz, or return to the Home Page
 
-- View the High Scores Leaderboard by clicking on the High Scores button on the Home Page
+```md
+    ![endpage](assets/images/end-page.png)
+    ```
 
+- View the High Scores Leaderboard by clicking on the High Scores button on the Home Page
 - The top 5 scores will be shown on the Leaderboard
+
+```md
+    ![High Scores Leaderboard](assets/images/leaderboard.png)
+    ```
